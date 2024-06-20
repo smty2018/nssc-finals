@@ -1,4 +1,5 @@
-Exoplanet Habitability Classification Using LightGBM with Enhanced Feature Selection and Imputation
+Exoplanet Habitability Classification Using LightGBM with  Feature Selection and Imputation
+<p>
 This study utilized LightGBM models trained with K-Fold Cross Validation (K = 2 to 10), incorporating SMOTE and ENN for class imbalance handling, Iterative Imputer for null value management, VIF for addressing multicollinearity, and Recursive Feature Elimination (RFE) with Linear Regression as base estimator to optimize predictive accuracy in classifying exoplanet habitability.
 
 
